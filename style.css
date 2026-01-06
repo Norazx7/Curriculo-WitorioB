@@ -508,4 +508,19 @@ footer{
   outline-offset: 4px;
 }
 
+.edicao-scroll{
+  display:flex;
+  gap:20px;
+  overflow-x:auto;
+  padding-bottom:10px;
+}
+
+.edicao-scroll img{
+  min-width:260px;
+  height:260px;
+  object-fit:cover;
+  border-radius:14px;
+}
+
+
 /* final */
